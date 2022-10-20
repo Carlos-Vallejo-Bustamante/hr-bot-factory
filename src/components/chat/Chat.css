@@ -1,0 +1,43 @@
+.right {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 0 5px;
+}
+
+.left {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 0 5px;
+}
+
+.small {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 3%;
+}
+
+.big {
+    width: 15px;
+    height: 15px;
+    margin-bottom: 5%;
+}
+
+.sender {
+    color: #fff;
+    background-color: #0085ff;
+    border-radius: 10px;
+    margin: 10px 10px;
+    padding: 5px 10px;
+    display: flex;
+}
+
+.receiver {
+    background-color: rgb(225, 224, 224);
+    border-radius: 10px;
+    margin: 10px 10px;
+    padding: 5px 10px;
+}

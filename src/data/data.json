@@ -1,0 +1,38 @@
+[
+    {
+        "user": "Evan",
+        "messege": "Hello!",
+        "sender": true,
+        "id": "295a4dab-74b2-4e60-b3c2-c1346aba7585"
+    },
+    {
+        "user": "Jane",
+        "sender": false,
+        "messege": "hello, how are you?",
+        "id": "6cf41052-7869-490f-9c2c-8f8efd2a4b5d"
+    },
+    {
+        "user": "Evan",
+        "sender": true,
+        "messege": "I'm not really understanding the after-usage instructions. Can you help?",
+        "id": "6fa4681a-61e1-4bf6-823a-24b2fe335543"
+    },
+    {
+        "user": "Jane",
+        "sender": false,
+        "messege": "We can certainly help. Would you like to chat with a representative here or have someone call you?",
+        "id": "bbdabd03-0e02-4e7d-a7fc-ce52cc1164be"
+    },
+    {
+        "user": "Evan",
+        "sender": true,
+        "messege": "Please call me",
+        "id": "5358b8a4-fe62-4f7d-9a22-712be95a1f72"
+    },
+    {
+        "user": "Jane",
+        "sender": false,
+        "messege": "OK we will be placing a call to you within the next 8 minutes.",
+        "id": "10858000-7894-4d77-bd0f-24639d111e74"
+    }
+]

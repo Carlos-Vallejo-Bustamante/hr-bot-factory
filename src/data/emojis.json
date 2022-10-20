@@ -1,0 +1,107 @@
+[
+    {
+        "symbol": "😃​",
+        "name": "happy face",
+        "keywords": "smiling face happy"
+    },
+    {
+        "symbol": "❤️​",
+        "name": "heart",
+        "keywords": "heart love like"
+    },
+    {
+        "symbol": "👍​",
+        "name": "ok",
+        "keywords": "ok thanks thank you"
+    },
+    {
+        "symbol": "👋",
+        "name": "bye",
+        "keywords": "bye goodbye"
+    },
+    {
+        "symbol": "😋",
+        "name": "Savoring",
+        "keywords": "Face Savoring Food"
+    },
+    {
+        "symbol": "😛",
+        "name": "Tongue",
+        "keywords": "Face with Tongue"
+    },
+    {
+        "symbol": "😜",
+        "name": "Winking",
+        "keywords": "Winking Face with Tongue"
+    },
+    {
+        "symbol": "🤪",
+        "name": "Zany",
+        "keywords": "Zany Face"
+    },
+    {
+        "symbol": "🤥",
+        "name": "Lying",
+        "keywords": "Lying Face"
+    },
+    {
+        "symbol": "😌",
+        "name": "Relieved",
+        "keywords": "Relieved Face"
+    },
+    {
+        "symbol": "😔",
+        "name": "Pensive",
+        "keywords": "Pensive Face"
+    },
+    {
+        "symbol": "😪",
+        "name": "Sleepy",
+        "keywords": "Sleepy Face"
+    },
+    {
+        "symbol": "🤤",
+        "name": "Drooling",
+        "keywords": "Drooling Face"
+    },
+    {
+        "symbol": "😴",
+        "name": "Sleeping",
+        "keywords": "Sleeping Face"
+    },
+    {
+        "symbol": "😷",
+        "name": "Mask",
+        "keywords": "Face with Medical Mask"
+    },
+    {
+        "symbol": "🤒",
+        "name": "Thermometer",
+        "keywords": "Face with Thermometer"
+    },
+    {
+        "symbol": "🤕",
+        "name": "Head-Bandage",
+        "keywords": "Face with Head-Bandage"
+    },
+    {
+        "symbol": "🤢",
+        "name": "Nauseated",
+        "keywords": "Nauseated Face"
+    },
+    {
+        "symbol": "🤮",
+        "name": "Vomiting",
+        "keywords": "Face Vomiting"
+    },
+    {
+        "symbol": "🤧",
+        "name": "Sneezing",
+        "keywords": "Sneezing Face"
+    },
+    {
+        "symbol": "🙈",
+        "name": "Monkey",
+        "keywords": "See-No-Evil Monkey"
+    }
+]

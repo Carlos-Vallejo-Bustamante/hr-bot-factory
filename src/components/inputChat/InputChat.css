@@ -1,0 +1,33 @@
+@import "//netdna.bootstrapcdn.com/font-awesome/3.0/css/font-awesome.css";
+
+.inputChat {
+    background-color: rgb(225, 224, 224);
+    border-radius: 10px;
+    margin: auto;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.inputChat input {
+    background-color: rgb(225, 224, 224);
+    border-radius: 10px;
+    border: 0px;
+}
+
+.inputChat input:focus {
+    background-color: rgb(225, 224, 224);
+    outline: none;
+}
+
+.icon {
+    color: #0085ff;
+    margin: 0 5px;
+}
+
+.icon:hover {
+    color: #4b94d8;
+    margin: 0 5px;
+    cursor: pointer;
+}
